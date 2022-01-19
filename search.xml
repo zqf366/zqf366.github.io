@@ -33,6 +33,8 @@
     <title>test2.md</title>
     <url>/2022/01/20/test2-md/</url>
     <content><![CDATA[<p>test cname</p>
+<span id="more"></span>
+<p>end</p>
 ]]></content>
   </entry>
 </search>
