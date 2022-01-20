@@ -21,20 +21,34 @@
 ]]></content>
   </entry>
   <entry>
-    <title>测试.md</title>
-    <url>/2022/01/19/%E6%B5%8B%E8%AF%95-md/</url>
+    <title>test2</title>
+    <url>/2022/01/20/test2/</url>
+    <content><![CDATA[<p>test cname</p>
+<span id="more"></span>
+<p>end</p>
+]]></content>
+      <categories>
+        <category>测试2</category>
+      </categories>
+      <tags>
+        <tag>ccc</tag>
+        <tag>ddd</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2022/01/19/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<p>test</p>
 <span id="more"></span>
 
 <p>end</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>test2.md</title>
-    <url>/2022/01/20/test2-md/</url>
-    <content><![CDATA[<p>test cname</p>
-<span id="more"></span>
-<p>end</p>
-]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>ccc</tag>
+        <tag>aaa</tag>
+      </tags>
   </entry>
 </search>
