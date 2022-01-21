@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test2</title>
-    <url>/2022/01/20/test2/</url>
-    <content><![CDATA[<p>test cname</p>
-<span id="more"></span>
-<p>end</p>
-]]></content>
-      <categories>
-        <category>测试2</category>
-      </categories>
-      <tags>
-        <tag>ccc</tag>
-        <tag>ddd</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
-    <url>/2022/01/18/hello-world/</url>
+    <url>/p/helloworld/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <span id="more"></span>
 
@@ -36,19 +21,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>测试</title>
-    <url>/2022/01/19/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>test</p>
-<span id="more"></span>
-
-<p>end</p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>ccc</tag>
-        <tag>aaa</tag>
-      </tags>
+    <title>post1</title>
+    <url>/p/post1/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
