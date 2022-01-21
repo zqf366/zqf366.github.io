@@ -23,7 +23,7 @@
   <entry>
     <title>post1</title>
     <url>/p/post1/</url>
-    <content><![CDATA[<p><img src="fly.jpg" alt="fly"></p>
+    <content><![CDATA[<img src="/p/post1/fly.jpg" class="" title="fly">
 <span id="more"></span>]]></content>
   </entry>
 </search>
